@@ -1,8 +1,8 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
+
 return
->>>>>>> user
+
+
+linea modificada
 
 addd
 
@@ -12,7 +12,6 @@ Hola mundo
 
 Hola otra vez
 
-<<<<<<< HEAD
 
 addd
 =======
@@ -20,5 +19,4 @@ linea 1 modificada para generar conflicto
 >>>>>>> 80d370f4289d3683e026fee9fdfed16dab3a20dd
 =======
 Hola mundo el regreso
->>>>>>> user
 
