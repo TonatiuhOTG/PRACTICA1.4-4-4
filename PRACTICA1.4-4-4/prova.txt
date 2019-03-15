@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 addd
 
@@ -9,4 +10,7 @@ Hola otra vez
 
 
 addd
+=======
+linea 1 modificada para generar conflicto
+>>>>>>> 80d370f4289d3683e026fee9fdfed16dab3a20dd
 
